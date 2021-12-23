@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 """
 A skeleton python script which reads from an input file,
-writes to an output file and parses command line arguments
+writes to an output file and parses command line arguments.....
 
 ## Author: Salman Rakin
 """
